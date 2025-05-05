@@ -4,7 +4,7 @@ I am Senior Cloud Devops Engineer with 11+ experience, mostly focus on DevOps, C
 
 I'm currently working in building DevOps tools and services that brings fast delivery, high quality and reliability for a software product.
 
-Please find me on [LinkedIn](linkedin.com/in/krishnaamilineni/) for a more detailed description of my full work experience, education and certifications. 
+Please find me on [LinkedIn](https://www.linkedin.com/in/krishnaamilineni/) for a more detailed description of my full work experience, education and certifications. 
 
 You can get in touch with me by email at [Email](amilinenikintu@gmail.com)
 
