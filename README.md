@@ -6,7 +6,7 @@ I'm currently working in building DevOps tools and services that brings fast del
 
 Please find me on [LinkedIn](https://www.linkedin.com/in/krishnaamilineni/) for a more detailed description of my full work experience, education and certifications. 
 
-You can get in touch with me by email at [Email](amilinenikintu@gmail.com)
+You can get in touch with me by email at [Email](mailto:amilinenikintu@gmail.com)
 
 🧾 Certifications I have Accomplished
 
