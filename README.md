@@ -1,6 +1,6 @@
 ## Hey! I'm Krishna Amilineni 👋 
 
-I am Software Engineer with 11+ experience, mostly focus on DevOps, Cloud and Site Reliability Engineering in different areas. 
+I am Senior Cloud Devops Engineer with 11+ experience, mostly focus on DevOps, Cloud and Site Reliability Engineering in different areas. 
 
 I'm currently working in building DevOps tools and services that brings fast delivery, high quality and reliability for a software product.
 
