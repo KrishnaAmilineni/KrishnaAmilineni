@@ -14,6 +14,8 @@ You can get in touch with me by email at [Email](mailto:amilinenikintu@gmail.com
 
 🎖  Microsoft Certified: Azure Administrator (AZ-104)
 
+🎖  Harshicorp Certified: Terraform Associate (TAC-003)
+
 🎖 Microsoft Certified: Azure Fundamentals (AZ-900)
 
 
