@@ -12,9 +12,11 @@ You can get in touch with me by email at [Email](mailto:amilinenikintu@gmail.com
 
 🎖 AWS Certified Solutions Architect - Associate (SAA-C03)
 
-🎖  Microsoft Certified: Azure Administrator (AZ-104)
+🎖 Microsoft Certified: Azure Administrator (AZ-104)
 
-🎖  Harshicorp Certified: Terraform Associate (TAC-003)
+🎖 Harshicorp Certified: Terraform Associate (TAC-003)
+
+🎖 Cloud Native Computing Foundation Certified: Kubernetes Administrator (CKA)
 
 🎖 Microsoft Certified: Azure Fundamentals (AZ-900)
 
