@@ -16,7 +16,7 @@ You can get in touch with me by email at [Email](mailto:amilinenikintu@gmail.com
 
 🎖 Harshicorp Certified: Terraform Associate (TAC-003)
 
-🎖 Cloud Native Computing Foundation Certified: Kubernetes Administrator (CKA)
+🎖 The Linux Foundation: Certified Kubernetes Administrator (CKA)
 
 🎖 Microsoft Certified: Azure Fundamentals (AZ-900)
 
